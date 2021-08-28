@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Fami.Overworld
+namespace Overworld
 {
     [RequireComponent(typeof(CharacterController))]
     public class OverworldController : MonoBehaviour

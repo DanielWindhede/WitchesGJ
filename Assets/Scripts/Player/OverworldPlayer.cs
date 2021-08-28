@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Rendering.Universal;
 
-namespace Fami.Overworld
+namespace Overworld
 {
     [RequireComponent(typeof(OverworldController))]
     public class OverworldPlayer : MonoBehaviour
@@ -55,7 +55,7 @@ namespace Fami.Overworld
 
         //private Object GetFPSResource(string path)
         //{
-        //    return Fami.ResourceHelper.GetResource("folder", path);
+        //    return ResourceHelper.GetResource("folder", path);
         //}
 
         //[SerializeField] Volume volume;

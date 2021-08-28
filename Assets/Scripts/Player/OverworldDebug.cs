@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Fami.Overworld
+namespace Overworld
 {
 
     public class OverworldDebug : MonoBehaviour
